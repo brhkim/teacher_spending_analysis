@@ -3,6 +3,7 @@ Replication code to conduct teacher out-of-pocket spending analysis in the repor
 
 1. Analytic code is conducted in expenditures_analysis.do
 2. Plotting the results in digestible visual format is conducted in expenditures_coefs_plot_rq1.R and expenditures_coefs_plot_rq3.R
+3. Our pre-analysis plan is located as DonorsChoose_ Teacher Out-of-Pocket Spending Research Plan.pdf. Please reach out if you're interested in learning more!
 
 Brian Heseung Kim
 
